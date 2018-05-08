@@ -1,7 +1,7 @@
 ---
 title: "Resumo dos projetos"
-author: "Nome do Aluno"
-date: "5 de abril de 2018"
+author: "Bruno Elias Fontana Baldin"
+date: "10 de abril de 2018"
 output: 
   html_document:
     toc: true
@@ -28,7 +28,7 @@ Esse projeto tem como objetivo realizar uma análise exploratória no dados do .
 
 ### Relatório do Projeto
 
-Link no [meu Github](<https://github.com/Efsilvaa>) *Pages*: [Projeto 1](projetos/projeto1.html)
+Link no [meu Github](<https://github.com/brunofontana22/MLRTemplate.git>) *Pages*: [Projeto 1](projetos/projeto1.html)
 
 ***
 
@@ -42,4 +42,4 @@ Esse projeto tem como objetivo realizar a previsão de ... usando um modelo de r
 
 ### Relatório do Projeto
 
-Link no [meu Github](<https://github.com/Efsilvaa>) *Pages*: [Projeto 2](projetos/projeto1.html)
+Link no [meu Github](<https://github.com/brunofontana22/MLRTemplate.git>) *Pages*: [Projeto 2](projetos/projeto1.html)
