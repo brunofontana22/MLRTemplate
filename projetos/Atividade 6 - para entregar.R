@@ -2,11 +2,13 @@
 
 "Temos um conjunto de dados com 13 atributos com valores contínuos e mais 
 um atributo (V1) com rótulos de classe de origem do vinho (cultivares).
-Usando o dataset ("wine_data.Rdata") nossa tarefa é construir um modelo 
+Usando o dataset ('wine_data.Rdata') nossa tarefa é construir um modelo 
 para reconhecer a origem do vinho a partir das suas características, usando KNN."
 
 #Carregando Libraries
+install.packages("ggplot2")
 library(ggplot2)
+install.packages("caret")
 library(caret)
 
 ##Carrregamento de dados
@@ -80,5 +82,6 @@ knnFit
 ##Plotando knnFit
 plot(knnFit)
 
+##fazer acuracia do modelo: predict
 
 "nao esta dando certo, porque falta valores a serem preenchidos no V7"
